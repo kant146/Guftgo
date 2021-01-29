@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742848044862",
+    "project_id": "guftgo-95da5",
+    "storage_bucket": "guftgo-95da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742848044862:android:2307d7e69d59005c08966f",
+        "android_client_info": {
+          "package_name": "com.example.guftgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742848044862-q4usajtn3ldkf76mfph2rsdh02cfk6h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnHaxZ9w23bK0Q87H6rMesP4FSYEBih8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742848044862-q4usajtn3ldkf76mfph2rsdh02cfk6h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

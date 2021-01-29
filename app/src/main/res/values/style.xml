@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+       <item name="colorPrimary">@color/teal_200</item>
+       <item name="colorPrimaryDark">@color/teal_200</item>
+       <item name="colorAccent">@color/teal_200</item>
+
+   </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/teal_200</item>
+        <item name="colorPrimaryDark">@color/teal_200</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+    </style>
+</resources>
