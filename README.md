@@ -11,7 +11,7 @@ App download link
 
 https://lnkd.in/g3-5PWu
 
-Create room and call your everyone
+Create room and call everyone
 
 
 
