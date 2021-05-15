@@ -6,7 +6,6 @@ This is a video Calling  Android Application in Java.
 
 Guftgu is free and useful messaging , chatting, meeting, streaming, watching and listening app with your friends and family or many more uses. Get access to the world and connect to your friends with the brand new mesenger app.
 
-linkedin link: https://lnkd.in/g8uQSWN
 
 App download link
 
